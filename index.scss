@@ -16,7 +16,7 @@ $lightgrayishblue: hsl(210, 46%, 95%);
 
 /* Font and Fsizes */
 
-$paragraph: 13px;
+$paragraph: .8125rem;
 
 /* Family: [Barlow Semi Condensed](https://fonts.google.com/specimen/Barlow+Semi+Condensed)
 - Weights: 500, 600
@@ -85,7 +85,7 @@ h2 {
 h3 {
     font-size: 0.825rem;
     font-weight: 500;
-    letter-spacing: .25px;
+    letter-spacing: .0156rem;
     
 }
 
@@ -118,7 +118,7 @@ p {
         background-position: top right 1.5rem;
 
         img {
-            border: 2px solid rgba(255, 255, 255, 0.302);
+            border: .125rem solid rgba(255, 255, 255, 0.302);
         }
     }
 
@@ -149,7 +149,7 @@ p {
         }
 
         img {
-            border: 2px solid $moderateviolet;
+            border: .125rem solid $moderateviolet;
         }
     
     }

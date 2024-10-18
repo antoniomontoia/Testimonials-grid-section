@@ -9,7 +9,6 @@
 /* Family: [Barlow Semi Condensed](https://fonts.google.com/specimen/Barlow+Semi+Condensed)
 - Weights: 500, 600
 */
-
 /*
   Josh's Custom CSS Reset
   https://www.joshwcomeau.com/css/custom-css-reset/
@@ -72,7 +71,7 @@ h2 {
 h3 {
   font-size: 0.825rem;
   font-weight: 500;
-  letter-spacing: 0.25px;
+  letter-spacing: 0.0156rem;
 }
 
 p {
@@ -98,7 +97,7 @@ p {
   background-position: top right 1.5rem;
 }
 .contents .contents_card1 img {
-  border: 2px solid rgba(255, 255, 255, 0.302);
+  border: 0.125rem solid rgba(255, 255, 255, 0.302);
 }
 .contents .contents_card2 {
   grid-area: two;
@@ -122,7 +121,7 @@ p {
   color: hsl(0, 0%, 100%);
 }
 .contents .contents_card4 img {
-  border: 2px solid hsl(263, 55%, 52%);
+  border: 0.125rem solid hsl(263, 55%, 52%);
 }
 .contents .contents_card5 {
   grid-area: five;
